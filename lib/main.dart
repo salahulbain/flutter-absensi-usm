@@ -11,11 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: GeneralPage(
-        onBackButtonPressed: () {},
-        child: SizedBox(),
-        backColor: Colors.white,
-      ),
+      home: MainPage(),
     );
   }
 }
