@@ -30,7 +30,7 @@ class _MainPageState extends State<MainPage> {
             },
             children: [
               Center(
-                child: Text('Home'),
+                child: HomaPage(),
               ),
               Center(
                 child: Text('Data Absen'),

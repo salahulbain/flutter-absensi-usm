@@ -10,3 +10,4 @@ import 'package:supercharged/supercharged.dart';
 part 'general_page.dart';
 part 'sign_in_page.dart';
 part 'main_page.dart';
+part 'home_page.dart';
