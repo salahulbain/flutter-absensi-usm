@@ -48,8 +48,9 @@ class _HomaPageState extends State<HomaPage> {
                   )
                 ],
               ),
-            )
+            ),
             //// midle
+            AbsenCard()
           ],
         )
       ],
